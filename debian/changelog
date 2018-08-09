@@ -1,3 +1,9 @@
+nvidia-graphics-drivers (396.51-1~bpo9+gnolltech1) UNRELEASED; urgency=medium
+
+  * Rebuild for Stretch Backports
+
+ -- Glib Golubytskyi <sectoid@globallogic.com>  Thu, 09 Aug 2018 20:22:05 +0300
+
 nvidia-graphics-drivers (396.51-1) experimental; urgency=medium
 
   * New upstream short lived branch release 396.51 (2018-08-03).
